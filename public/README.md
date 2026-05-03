@@ -9,9 +9,9 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
+- Nome:Fabricio Felix Gomes
 - Matricula:
-- Proposta de projeto escolhida:
+- Proposta de projeto escolhida: Semana *
 - Breve descrição sobre seu projeto:
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
